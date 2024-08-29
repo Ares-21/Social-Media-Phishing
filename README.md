@@ -17,7 +17,7 @@ Clone the Repository
 To deploy this project run
 
 ```bash
-  - Copy components of instagram or facebook files to the www/var/html directory.
+  - Copy components of instagram or facebook files to the var/www/html directory.
   - Search your local host ip on the browser to view the login page 
 ```
 
